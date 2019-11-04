@@ -5,9 +5,6 @@
 # and to write the contents into a databasefile 'example.db'
 # This program assumes that a plain text file is being read
 
-# structure of the file is as follows:
-#
-
 import os
 import sys
 import sqlite3
