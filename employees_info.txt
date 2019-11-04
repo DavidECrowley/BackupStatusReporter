@@ -1,0 +1,5 @@
+﻿*REMOVED RECORDS OF EMPLOYEES FOR SECURITY REASONS*
+
+LAYOUT IS AS FOLLOWS
+
+[machine identifier][employee name]
